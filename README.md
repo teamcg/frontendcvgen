@@ -10,8 +10,8 @@ Sample format
 Example:
 
 Nov 9
--- added bootstrap
--- made some changes on blah blah
--- fixed the UI
-John Frades
+-- added bootstrap <br>
+-- made some changes on blah blah <br>
+-- fixed the UI <br>
+John Frades <br>
 
